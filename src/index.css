@@ -1,0 +1,18 @@
+body {
+  margin:0;
+} 
+
+.p-datatable tbody tr:nth-child(odd) {
+    background-color:rgb(113, 21, 219);
+  }
+  .p-datatable tbody tr:nth-child(even) {
+    background-color:rgb(32, 1, 46);
+  }
+  .p-autocomplete input{
+    width:100%;
+  }
+
+  .navbar-color{
+    background-color: rgb(32, 1, 46);
+  }
+
